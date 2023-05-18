@@ -15,6 +15,15 @@ In the End, a recommender system was created using machine learning techniques, 
 * requests
 * sklearn
 
+</br>
+
+## Demo
+![Top_Music](https://github.com/Amiir-zar/Spotify_DataAnalysis/assets/73050351/5cc67c4f-1a29-4a59-a0c6-e1fc5bad5923)
+
+### Recomender System
+![Recommedor](https://github.com/Amiir-zar/Spotify_DataAnalysis/assets/73050351/2b719958-0082-4f1f-95de-ddfb5e901f00)
+
+
 
 ## Authors
 
